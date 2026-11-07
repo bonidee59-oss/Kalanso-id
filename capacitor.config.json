@@ -1,0 +1,6 @@
+{
+  "appId": "bf.cartesid.app",
+  "appName": "CartesID BF",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
